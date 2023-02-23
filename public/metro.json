@@ -1,0 +1,519 @@
+{
+    "ligne 1": {
+        "stations": [
+            {"nom": "La Defense Grande Arche", "correspondances": ["RER A", "T2", "U"]},
+            {"nom": "Esplanade de La Defense", "correspondances": []},
+            {"nom": "Pont de Neuilly", "correspondances": []},
+            {"nom": "Les Sablons", "correspondances": []},
+            {"nom": "Porte Maillot", "correspondances": ["RER C"]},
+            {"nom": "Argentine", "correspondances": []},
+            {"nom": "Charles de Gaulle Etoile", "correspondances": ["RER A", "ligne 2", "ligne 6"]},
+            {"nom": "George V", "correspondances": []},
+            {"nom": "Franklin D. Roosevelt", "correspondances": ["ligne 9"]},
+            {"nom": "Champs-Elysees Clemenceau", "correspondances": ["ligne 13"]},
+            {"nom": "Concorde", "correspondances": ["ligne 8", "ligne 12"]},
+            {"nom": "Tuileries", "correspondances": []},
+            {"nom": "Palais Royal - Musee du Louvre", "correspondances": ["ligne 7"]},
+            {"nom": "Louvre Rivoli", "correspondances": []},
+            {"nom": "Chatelet", "correspondances": ["RER A", "RER B", "RER D", "ligne 4", "ligne 7", "ligne 11", "ligne 14"]},
+            {"nom": "Hotel de Ville", "correspondances": ["ligne 11"]},
+            {"nom": "Saint-Paul", "correspondances": []},
+            {"nom": "Bastille", "correspondances": ["ligne 5", "ligne 8"]},
+            {"nom": "Gare de Lyon", "correspondances": ["RER A", "RER D", "ligne 14"]},
+            {"nom": "Reuilly Diderot", "correspondances": []},
+            {"nom": "Nation", "correspondances": ["RER A", "RER E", "ligne 2", "ligne 6"]},
+            {"nom": "Porte de Vincennes", "correspondances": []},
+            {"nom": "Saint-Mande", "correspondances": []},
+            {"nom": "Berault", "correspondances": []},
+            {"nom": "Chateau de Vincennes", "correspondances": []}
+        ]
+    },
+    "ligne 2": {
+        "stations": [
+            {"nom": "Porte Dauphine", "correspondances": ["RER C"]},
+            {"nom": "Victor Hugo", "correspondances": []},
+            {"nom": "Charles de Gaulle Etoile", "correspondances": ["RER A", "ligne 1", "ligne 6"]},
+            {"nom": "Ternes", "correspondances": []},
+            {"nom": "Courcelles", "correspondances": []},
+            {"nom": "Monceau", "correspondances": []},
+            {"nom": "Villiers", "correspondances": ["ligne 3"]},
+            {"nom": "Rome", "correspondances": []},
+            {"nom": "Place de Clichy", "correspondances": ["ligne 13"]},
+            {"nom": "Blanche", "correspondances": ["ligne 13"]},
+            {"nom": "Pigalle", "correspondances": ["ligne 12"]},
+            {"nom": "Anvers", "correspondances": ["ligne 7bis"]},
+            {"nom": "Barbes Rochechouart", "correspondances": ["ligne 4"]},
+            {"nom": "La Chapelle", "correspondances": []},
+            {"nom": "Stalingrad", "correspondances": ["ligne 5", "ligne 7"]},
+            {"nom": "Jaures", "correspondances": ["ligne 5"]},
+            {"nom": "Colonel Fabien", "correspondances": []},
+            {"nom": "Belleville", "correspondances": ["ligne 11"]},
+            {"nom": "Couronnes", "correspondances": []},
+            {"nom": "Menilmontant", "correspondances": []},
+            {"nom": "Pere Lachaise", "correspondances": ["ligne 3"]},
+            {"nom": "Philippe Auguste", "correspondances": []},
+            {"nom": "Alexandre Dumas", "correspondances": []},
+            {"nom": "Avron", "correspondances": []},
+            {"nom": "Nation", "correspondances": ["RER A", "RER E", "ligne 1", "ligne 6"]}
+        ]
+    },
+    "ligne 3": {
+        "stations": [
+            {"nom": "Pont de Levallois - Becon", "correspondances": []},
+            {"nom": "Anatole France", "correspondances": []},
+            {"nom": "Louise Michel", "correspondances": []},
+            {"nom": "Porte de Champerret", "correspondances": []},
+            {"nom": "Pereire", "correspondances": []},
+            {"nom": "Wagram", "correspondances": []},
+            {"nom": "Malesherbes", "correspondances": []},
+            {"nom": "Villiers", "correspondances": ["ligne 2"]},
+            {"nom": "Europe", "correspondances": []},
+            {"nom": "Saint-Lazare", "correspondances": ["RER E", "ligne 12", "ligne 13", "ligne 14"]},
+            {"nom": "Havre - Caumartin", "correspondances": ["ligne 9"]},
+            {"nom": "Opera", "correspondances": ["ligne 7", "ligne 8"]},
+            {"nom": "Quatre-Septembre", "correspondances": []},
+            {"nom": "Bourse", "correspondances": ["ligne 8"]},
+            {"nom": "Sentier", "correspondances": []},
+            {"nom": "Reaumur - Sebastopol", "correspondances": ["ligne 4"]},
+            {"nom": "Arts et Metiers", "correspondances": ["ligne 11"]},
+            {"nom": "Temple", "correspondances": []},
+            {"nom": "Republique", "correspondances": ["ligne 5", "ligne 8", "ligne 9", "ligne 11"]},
+            {"nom": "Parmentier", "correspondances": []},
+            {"nom": "Rue Saint-Maur", "correspondances": []},
+            {"nom": "Pere Lachaise", "correspondances": ["ligne 2"]},
+            {"nom": "Gambetta", "correspondances": ["ligne 3bis"]},
+            {"nom": "Porte de Bagnolet", "correspondances": ["ligne 3bis"]}
+        ]
+    },
+    "ligne 4": {
+        "stations": [
+            {"nom": "Porte de Clignancourt", "correspondances": ["ligne 12"]},
+            {"nom": "Simplon", "correspondances": []},
+            {"nom": "Marcadet - Poissonniers", "correspondances": ["ligne 12"]},
+            {"nom": "Chateau Rouge", "correspondances": []},
+            {"nom": "Barbes - Rochechouart", "correspondances": ["ligne 2"]},
+            {"nom": "Gare du Nord", "correspondances": ["RER B", "RER D", "ligne 5"]},
+            {"nom": "Gare de l'Est", "correspondances": ["ligne 5", "ligne 7", "ligne 7bis"]},
+            {"nom": "Chateau d'Eau", "correspondances": []},
+            {"nom": "Strasbourg - Saint-Denis", "correspondances": ["ligne 8", "ligne 9"]},
+            {"nom": "Reaumur - Sebastopol", "correspondances": ["ligne 3"]},
+            {"nom": "Etienne Marcel", "correspondances": []},
+            {"nom": "Les Halles", "correspondances": ["RER A", "ligne 1", "ligne 7", "ligne 11", "ligne 14"]},
+            {"nom": "Chatelet", "correspondances": ["RER A", "RER B", "RER D", "ligne 1", "ligne 7", "ligne 11", "ligne 14"]},
+            {"nom": "Cite", "correspondances": ["ligne 7"]},
+            {"nom": "Saint-Michel", "correspondances": ["RER B", "ligne 10"]},
+            {"nom": "Odeon", "correspondances": ["ligne 10"]},
+            {"nom": "Saint-Germain-des-Pres", "correspondances": ["ligne 6"]},
+            {"nom": "Saint-Sulpice", "correspondances": []},
+            {"nom": "Saint-Placide", "correspondances": ["ligne 12"]},
+            {"nom": "Montparnasse - Bienvenue", "correspondances": ["RER B", "ligne 6", "ligne 12", "ligne 13"]},
+            {"nom": "Vavin", "correspondances": []},
+            {"nom": "Raspail", "correspondances": ["ligne 6"]},
+            {"nom": "Denfert-Rochereau", "correspondances": ["RER B", "ligne 6"]},
+            {"nom": "Mouton-Duvernet", "correspondances": []},
+            {"nom": "Alésia", "correspondances": []},
+            {"nom": "Porte d'Orleans", "correspondances": ["ligne 6"]}
+        ]
+    },
+    "ligne 5": {
+        "stations": [
+            {"nom": "Bobigny - Pablo Picasso", "correspondances": ["ligne 7"]},
+            {"nom": "Bobigny - Pantin - Raymond Queneau", "correspondances": ["ligne 7"]},
+            {"nom": "Eglise de Pantin", "correspondances": []},
+            {"nom": "Hoche", "correspondances": []},
+            {"nom": "Porte de Pantin", "correspondances": []},
+            {"nom": "Ourcq", "correspondances": []},
+            {"nom": "Laumiere", "correspondances": []},
+            {"nom": "Jaures", "correspondances": ["ligne 2", "ligne 7bis"]},
+            {"nom": "Stalingrad", "correspondances": ["ligne 2", "ligne 7"]},
+            {"nom": "Gare du Nord", "correspondances": ["RER B", "RER D", "ligne 4"]},
+            {"nom": "Gare de l'Est", "correspondances": ["ligne 4", "ligne 7", "ligne 7bis"]},
+            {"nom": "Jacques Bonsergent", "correspondances": []},
+            {"nom": "Republique", "correspondances": ["ligne 3", "ligne 8", "ligne 9", "ligne 11"]},
+            {"nom": "Oberkampf", "correspondances": ["ligne 9"]},
+            {"nom": "Richard-Lenoir", "correspondances": []},
+            {"nom": "Breguet-Sabin", "correspondances": []},
+            {"nom": "Bastille", "correspondances": ["ligne 1", "ligne 8"]},
+            {"nom": "Quai de la Rapee", "correspondances": []},
+            {"nom": "Gare d'Austerlitz", "correspondances": ["RER C", "ligne 10"]},
+            {"nom": "Saint-Marcel", "correspondances": []},
+            {"nom": "Campo-Formio", "correspondances": []},
+            {"nom": "Place d'Italie", "correspondances": ["ligne 6", "ligne 7"]}
+        ]
+    },
+    "ligne 6": {
+        "stations": [
+            {"nom": "Charles de Gaulle - Étoile", "correspondances": ["ligne 1", "ligne 2", "ligne 9"]},
+            {"nom": "Kléber", "correspondances": []},
+            {"nom": "Boissière", "correspondances": []},
+            {"nom": "Trocadéro", "correspondances": ["ligne 9"]},
+            {"nom": "Passy", "correspondances": []},
+            {"nom": "Bir-Hakeim", "correspondances": []},
+            {"nom": "Dupleix", "correspondances": []},
+            {"nom": "La Motte-Picquet - Grenelle", "correspondances": ["ligne 8", "ligne 10"]},
+            {"nom": "Cambronne", "correspondances": []},
+            {"nom": "Sèvres - Lecourbe", "correspondances": []},
+            {"nom": "Pasteur", "correspondances": ["ligne 12"]},
+            {"nom": "Montparnasse - Bienvenüe", "correspondances": ["ligne 4", "ligne 12", "ligne 13"]},
+            {"nom": "Edgar Quinet", "correspondances": []},
+            {"nom": "Raspail", "correspondances": ["ligne 4"]},
+            {"nom": "Denfert-Rochereau", "correspondances": ["RER B", "ligne 4"]},
+            {"nom": "Saint-Jacques", "correspondances": []},
+            {"nom": "Glacière", "correspondances": []},
+            {"nom": "Corvisart", "correspondances": []},
+            {"nom": "Place d'Italie", "correspondances": ["ligne 5", "ligne 7"]}
+        ]
+    },
+    
+    "ligne 7": {
+        "stations": [
+            {"nom": "La Courneuve - 8 Mai 1945", "correspondances": ["ligne 8"]},
+            {"nom": "Fort d'Aubervilliers", "correspondances": []},
+            {"nom": "Aubervilliers - Pantin - Quatre Chemins", "correspondances": ["ligne 5"]},
+            {"nom": "Porte de la Villette", "correspondances": ["ligne 11"]},
+            {"nom": "Corentin Cariou", "correspondances": []},
+            {"nom": "Crimée", "correspondances": []},
+            {"nom": "Riquet", "correspondances": []},
+            {"nom": "Stalingrad", "correspondances": ["ligne 2", "ligne 5"]},
+            {"nom": "Louis Blanc", "correspondances": []},
+            {"nom": "Château-Landon", "correspondances": []},
+            {"nom": "Gare de l'Est", "correspondances": ["ligne 4", "ligne 5", "ligne 7", "ligne 7bis"]},
+            {"nom": "Poissonnière", "correspondances": []},
+            {"nom": "Cadet", "correspondances": []},
+            {"nom": "Le Peletier", "correspondances": []},
+            {"nom": "Chaussée d'Antin - La Fayette", "correspondances": ["ligne 9"]},
+            {"nom": "Opéra", "correspondances": ["ligne 3", "ligne 8", "ligne 9", "RER A"]},
+            {"nom": "Pyramides", "correspondances": ["ligne 14"]},
+            {"nom": "Palais Royal - Musée du Louvre", "correspondances": ["ligne 1"]},
+            {"nom": "Pont Neuf", "correspondances": []},
+            {"nom": "Châtelet", "correspondances": ["ligne 1", "ligne 4", "ligne 11", "ligne 14", "RER A", "RER B", "RER D"]},
+            {"nom": "Pont Marie", "correspondances": []},
+            {"nom": "Sully - Morland", "correspondances": []},
+            {"nom": "Jussieu", "correspondances": ["ligne 10"]},
+            {"nom": "Place Monge", "correspondances": []},
+            {"nom": "Censier - Daubenton", "correspondances": []},
+            {"nom": "Les Gobelins", "correspondances": []},
+            {"nom": "Place d'Italie", "correspondances": ["ligne 5", "ligne 6"]}
+        ]
+    }, 
+    "ligne 8": {
+        "stations": [
+            {"nom": "Balard", "correspondances": ["Tramway 3a"]},
+            {"nom": "Lourmel", "correspondances": []},
+            {"nom": "Boucicaut", "correspondances": []},
+            {"nom": "Félix Faure", "correspondances": []},
+            {"nom": "Commerce", "correspondances": []},
+            {"nom": "La Motte-Picquet - Grenelle", "correspondances": ["ligne 6", "ligne 10"]},
+            {"nom": "École Militaire", "correspondances": []},
+            {"nom": "La Tour-Maubourg", "correspondances": []},
+            {"nom": "Invalides", "correspondances": ["ligne 13", "RER C"]},
+            {"nom": "Concorde", "correspondances": ["ligne 1", "ligne 12"]},
+            {"nom": "Madeleine", "correspondances": ["ligne 12", "ligne 14"]},
+            {"nom": "Opéra", "correspondances": ["ligne 3", "ligne 7", "ligne 9", "RER A"]},
+            {"nom": "Richelieu - Drouot", "correspondances": ["ligne 9"]},
+            {"nom": "Grands Boulevards", "correspondances": ["ligne 9"]},
+            {"nom": "Bonne-Nouvelle", "correspondances": ["ligne 9"]},
+            {"nom": "Strasbourg - Saint-Denis", "correspondances": ["ligne 4", "ligne 9"]},
+            {"nom": "République", "correspondances": ["ligne 3", "ligne 5", "ligne 9", "ligne 11"]},
+            {"nom": "Filles du Calvaire", "correspondances": []},
+            {"nom": "Saint-Sébastien - Froissart", "correspondances": []},
+            {"nom": "Chemin Vert", "correspondances": []},
+            {"nom": "Bastille", "correspondances": ["ligne 1", "ligne 5"]},
+            {"nom": "Ledru-Rollin", "correspondances": []},
+            {"nom": "Faidherbe - Chaligny", "correspondances": []},
+            {"nom": "Reuilly - Diderot", "correspondances": ["ligne 1"]},
+            {"nom": "Montgallet", "correspondances": []},
+            {"nom": "Daumesnil", "correspondances": ["ligne 6"]},
+            {"nom": "Michel Bizot", "correspondances": []},
+            {"nom": "Porte Dorée", "correspondances": []},
+            {"nom": "Porte de Charenton", "correspondances": []},
+            {"nom": "Liberté", "correspondances": []},
+            {"nom": "Charenton - Écoles", "correspondances": []},
+            {"nom": "École Vétérinaire de Maisons-Alfort", "correspondances": []},
+            {"nom": "Maisons-Alfort - Stade", "correspondances": []},
+            {
+                "nom": "Liberté",
+                "correspondances": [
+                  "1",
+                  "14",
+                  "RER A"
+                ]
+              },
+              {
+                "nom": "Charenton-Écoles",
+                "correspondances": [
+                  "1"
+                ]
+              },
+              {
+                "nom": "École Vétérinaire de Maisons-Alfort",
+                "correspondances": []
+              },
+              {
+                "nom": "Maisons-Alfort — Stade",
+                "correspondances": []
+              },
+              {
+                "nom": "Maisons-Alfort — Les Juilliottes",
+                "correspondances": [
+                  "1"
+                ]
+              },
+              {
+                "nom": "Créteil — L'Échat",
+                "correspondances": []
+              },
+              {
+                "nom": "Créteil — Université",
+                "correspondances": [
+                  "TVM",
+                  "18"
+                ]
+              },
+              {
+                "nom": "Créteil — Préfecture",
+                "correspondances": [
+                  "TVM",
+                  "18"
+                ]
+              },
+              {
+                "nom": "Créteil — Pointe du Lac",
+                "correspondances": []
+              }
+        ]
+    },
+    "ligne 9": {
+        "stations": [
+            {
+                "nom": "Pont de Sèvres",
+                "correspondances": [
+                    {
+                        "ligne": "T2",
+                        "station": "Pont de Sèvres"
+                    }
+                ]
+            },
+            {
+                "nom": "Billancourt",
+                "correspondances": []
+            },
+            {
+                "nom": "Marcel Sembat",
+                "correspondances": []
+            },
+            {
+                "nom": "Porte de Saint-Cloud",
+                "correspondances": [
+                    {
+                        "ligne": "T3a",
+                        "station": "Porte de Versailles"
+                    }
+                ]
+            },
+            {
+                "nom": "Exelmans",
+                "correspondances": []
+            },
+            {
+                "nom": "Michel-Ange - Molitor",
+                "correspondances": [
+                    {
+                        "ligne": "10",
+                        "station": "Michel-Ange - Molitor"
+                    }
+                ]
+            },
+            {
+                "nom": "Michel-Ange - Auteuil",
+                "correspondances": [
+                    {
+                        "ligne": "10",
+                        "station": "Michel-Ange - Auteuil"
+                    }
+                ]
+            },
+            {
+                "nom": "Jasmin",
+                "correspondances": []
+            },
+            {
+                "nom": "Ranelagh",
+                "correspondances": []
+            },
+            {
+                "nom": "La Muette",
+                "correspondances": []
+            },
+            {
+                "nom": "Rue de la Pompe",
+                "correspondances": []
+            },
+            {
+                "nom": "Trocadéro",
+                "correspondances": [
+                    {
+                        "ligne": "6",
+                        "station": "Trocadéro"
+                    },
+                    {
+                        "ligne": "9",
+                        "station": "Iéna"
+                    }
+                ]
+            },
+            {
+                "nom": "Iéna",
+                "correspondances": [
+                    {
+                        "ligne": "9",
+                        "station": "Trocadéro"
+                    }
+                ]
+            },
+            {
+                "nom": "Alma - Marceau",
+                "correspondances": [
+                    {
+                        "ligne": "1",
+                        "station": "Franklin D. Roosevelt"
+                    }
+                ]
+            },
+            {
+                "nom": "Franklin D. Roosevelt",
+                "correspondances": [
+                    {
+                        "ligne": "1",
+                        "station": "Franklin D. Roosevelt"
+                    }
+                ]
+            },
+            {
+                "nom": "Saint-Philippe du Roule",
+                "correspondances": []
+            },
+            {
+                "nom": "Miromesnil",
+                "correspondances": [
+                    {
+                        "ligne": "13",
+                        "station": "Miromesnil"
+                    }
+                ]
+            },
+            {
+                "nom": "Saint-Augustin",
+                "correspondances": []
+            },
+            {
+            "nom": "Havre-Caumartin",
+            "correspondances": [
+                "3",
+                "12",
+                "13",
+                "14"
+            ]
+            },
+            {
+            "nom": "Chaussée d'Antin — La Fayette",
+            "correspondances": [
+                "7"
+            ]
+            },
+            {
+            "nom": "Richelieu — Drouot",
+            "correspondances": [
+                "8"
+            ]
+            },
+            {
+            "nom": "Grands Boulevards",
+            "correspondances": [
+                "8"
+            ]
+            },
+            {
+            "nom": "Bonne Nouvelle",
+            "correspondances": [
+                "8"
+            ]
+            },
+            {
+            "nom": "Strasbourg — Saint-Denis",
+            "correspondances": [
+                "4",
+                "8"
+            ]
+            },
+            {
+            "nom": "République",
+            "correspondances": [
+                "3",
+                "5",
+                "8",
+                "11"
+            ]
+            },
+            {
+            "nom": "Oberkampf",
+            "correspondances": [
+                "5"
+            ]
+            },
+            {
+            "nom": "Saint-Ambroise",
+            "correspondances": []
+            },
+            {
+            "nom": "Voltaire",
+            "correspondances": [
+                "11"
+            ]
+            },
+            {
+            "nom": "Charonne",
+            "correspondances": []
+            },
+            {
+            "nom": "Rue des Boulets",
+            "correspondances": []
+            },
+            {
+            "nom": "Nation",
+            "correspondances": [
+                "1",
+                "2",
+                "6",
+                "RER A"
+            ]
+            },
+            {
+            "nom": "Buzenval",
+            "correspondances": []
+            },
+            {
+            "nom": "Maraîchers",
+            "correspondances": []
+            },
+            {
+            "nom": "Porte de Montreuil",
+            "correspondances": []
+            },
+            {
+            "nom": "Robespierre",
+            "correspondances": []
+            },
+            {
+            "nom": "Croix de Chavaux",
+            "correspondances": [
+                "TVM"
+            ]
+            },
+            {
+            "nom": "Mairie de Montreuil",
+            "correspondances": []
+            }
+        ]
+    }
+}

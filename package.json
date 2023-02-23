@@ -8,6 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@types/node": "^18.14.0",
     "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "axios": "^1.3.3"
   }
 }
