@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <h1>
     Index vue
-  </div>
+  </h1>
 </template>
 
 <script setup>
