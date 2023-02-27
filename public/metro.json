@@ -1,5 +1,6 @@
 {
     "ligne 1": {
+        "image": "./img/logo_Metro/ligne1.svg",
         "stations": [
             {"nom": "La Defense Grande Arche", "correspondances": ["RER A", "T2", "U"]},
             {"nom": "Esplanade de La Defense", "correspondances": []},
@@ -29,6 +30,7 @@
         ]
     },
     "ligne 2": {
+        "image": "./img/logo_Metro/ligne2.svg",
         "stations": [
             {"nom": "Porte Dauphine", "correspondances": ["RER C"]},
             {"nom": "Victor Hugo", "correspondances": []},
@@ -58,6 +60,7 @@
         ]
     },
     "ligne 3": {
+        "image": "./img/logo_Metro/ligne3.svg",
         "stations": [
             {"nom": "Pont de Levallois - Becon", "correspondances": []},
             {"nom": "Anatole France", "correspondances": []},
@@ -86,6 +89,7 @@
         ]
     },
     "ligne 4": {
+        "image": "./img/logo_Metro/ligne4.svg",
         "stations": [
             {"nom": "Porte de Clignancourt", "correspondances": ["ligne 12"]},
             {"nom": "Simplon", "correspondances": []},
@@ -116,6 +120,7 @@
         ]
     },
     "ligne 5": {
+        "image": "./img/logo_Metro/ligne5.svg",
         "stations": [
             {"nom": "Bobigny - Pablo Picasso", "correspondances": ["ligne 7"]},
             {"nom": "Bobigny - Pantin - Raymond Queneau", "correspondances": ["ligne 7"]},
@@ -142,6 +147,7 @@
         ]
     },
     "ligne 6": {
+        "image": "./img/logo_Metro/ligne6.svg",
         "stations": [
             {"nom": "Charles de Gaulle - Étoile", "correspondances": ["ligne 1", "ligne 2", "ligne 9"]},
             {"nom": "Kléber", "correspondances": []},
@@ -166,6 +172,7 @@
     },
     
     "ligne 7": {
+        "image": "./img/logo_Metro/ligne7.svg",
         "stations": [
             {"nom": "La Courneuve - 8 Mai 1945", "correspondances": ["ligne 8"]},
             {"nom": "Fort d'Aubervilliers", "correspondances": []},
@@ -197,6 +204,7 @@
         ]
     }, 
     "ligne 8": {
+        "image": "./img/logo_Metro/ligne8.svg",
         "stations": [
             {"nom": "Balard", "correspondances": ["Tramway 3a"]},
             {"nom": "Lourmel", "correspondances": []},
@@ -231,196 +239,40 @@
             {"nom": "Charenton - Écoles", "correspondances": []},
             {"nom": "École Vétérinaire de Maisons-Alfort", "correspondances": []},
             {"nom": "Maisons-Alfort - Stade", "correspondances": []},
-            {
-                "nom": "Liberté",
-                "correspondances": [
-                  "1",
-                  "14",
-                  "RER A"
-                ]
-              },
-              {
-                "nom": "Charenton-Écoles",
-                "correspondances": [
-                  "1"
-                ]
-              },
-              {
-                "nom": "École Vétérinaire de Maisons-Alfort",
-                "correspondances": []
-              },
-              {
-                "nom": "Maisons-Alfort — Stade",
-                "correspondances": []
-              },
-              {
-                "nom": "Maisons-Alfort — Les Juilliottes",
-                "correspondances": [
-                  "1"
-                ]
-              },
-              {
-                "nom": "Créteil — L'Échat",
-                "correspondances": []
-              },
-              {
-                "nom": "Créteil — Université",
-                "correspondances": [
-                  "TVM",
-                  "18"
-                ]
-              },
-              {
-                "nom": "Créteil — Préfecture",
-                "correspondances": [
-                  "TVM",
-                  "18"
-                ]
-              },
-              {
-                "nom": "Créteil — Pointe du Lac",
-                "correspondances": []
-              }
+            {"nom": "Liberté","correspondances": ["1","14","RER A"]},
+            {"nom": "Charenton-Écoles","correspondances": ["1"]},
+            {"nom": "École Vétérinaire de Maisons-Alfort","correspondances": []},
+            {"nom": "Maisons-Alfort — Stade","correspondances": []},
+            {"nom": "Maisons-Alfort — Les Juilliottes","correspondances": ["1"]},
+            {"nom": "Créteil — L'Échat","correspondances": []},
+            {"nom": "Créteil — Université","correspondances": ["TVM","18"]},
+            {"nom": "Créteil — Préfecture","correspondances": ["TVM","18"]},
+            {"nom": "Créteil — Pointe du Lac","correspondances": []}
         ]
     },
     "ligne 9": {
+        "image": "./img/logo_Metro/ligne9.svg",
         "stations": [
-            {
-                "nom": "Pont de Sèvres",
-                "correspondances": [
-                    {
-                        "ligne": "T2",
-                        "station": "Pont de Sèvres"
-                    }
-                ]
-            },
-            {
-                "nom": "Billancourt",
-                "correspondances": []
-            },
-            {
-                "nom": "Marcel Sembat",
-                "correspondances": []
-            },
-            {
-                "nom": "Porte de Saint-Cloud",
-                "correspondances": [
-                    {
-                        "ligne": "T3a",
-                        "station": "Porte de Versailles"
-                    }
-                ]
-            },
-            {
-                "nom": "Exelmans",
-                "correspondances": []
-            },
-            {
-                "nom": "Michel-Ange - Molitor",
-                "correspondances": [
-                    {
-                        "ligne": "10",
-                        "station": "Michel-Ange - Molitor"
-                    }
-                ]
-            },
-            {
-                "nom": "Michel-Ange - Auteuil",
-                "correspondances": [
-                    {
-                        "ligne": "10",
-                        "station": "Michel-Ange - Auteuil"
-                    }
-                ]
-            },
-            {
-                "nom": "Jasmin",
-                "correspondances": []
-            },
-            {
-                "nom": "Ranelagh",
-                "correspondances": []
-            },
-            {
-                "nom": "La Muette",
-                "correspondances": []
-            },
-            {
-                "nom": "Rue de la Pompe",
-                "correspondances": []
-            },
-            {
-                "nom": "Trocadéro",
-                "correspondances": [
-                    {
-                        "ligne": "6",
-                        "station": "Trocadéro"
-                    },
-                    {
-                        "ligne": "9",
-                        "station": "Iéna"
-                    }
-                ]
-            },
-            {
-                "nom": "Iéna",
-                "correspondances": [
-                    {
-                        "ligne": "9",
-                        "station": "Trocadéro"
-                    }
-                ]
-            },
-            {
-                "nom": "Alma - Marceau",
-                "correspondances": [
-                    {
-                        "ligne": "1",
-                        "station": "Franklin D. Roosevelt"
-                    }
-                ]
-            },
-            {
-                "nom": "Franklin D. Roosevelt",
-                "correspondances": [
-                    {
-                        "ligne": "1",
-                        "station": "Franklin D. Roosevelt"
-                    }
-                ]
-            },
-            {
-                "nom": "Saint-Philippe du Roule",
-                "correspondances": []
-            },
-            {
-                "nom": "Miromesnil",
-                "correspondances": [
-                    {
-                        "ligne": "13",
-                        "station": "Miromesnil"
-                    }
-                ]
-            },
-            {
-                "nom": "Saint-Augustin",
-                "correspondances": []
-            },
-            {
-            "nom": "Havre-Caumartin",
-            "correspondances": [
-                "3",
-                "12",
-                "13",
-                "14"
-            ]
-            },
-            {
-            "nom": "Chaussée d'Antin — La Fayette",
-            "correspondances": [
-                "7"
-            ]
-            },
+            {"nom": "Pont de Sèvres","correspondances": ["T2"]},
+            {"nom": "Billancourt","correspondances": []},
+            {"nom": "Marcel Sembat","correspondances": []},
+            {"nom": "Porte de Saint-Cloud","correspondances": ["T3a"]},
+            {"nom": "Exelmans","correspondances": []},
+            {"nom": "Michel-Ange - Molitor","correspondances": ["10"]},
+            {"nom": "Michel-Ange - Auteuil","correspondances": ["10"]},
+            {"nom": "Jasmin","correspondances": []},
+            {"nom": "Ranelagh","correspondances": []},
+            {"nom": "La Muette","correspondances": []},
+            {"nom": "Rue de la Pompe","correspondances": []},
+            {"nom": "Trocadéro","correspondances": ["6", "9"]},
+            {"nom": "Iéna","correspondances": ["9"]},
+            {"nom": "Alma - Marceau","correspondances": ["1"]},
+            {"nom": "Franklin D. Roosevelt","correspondances": ["1"]},
+            {"nom": "Saint-Philippe du Roule","correspondances": []},
+            {"nom": "Miromesnil","correspondances": ["13"]},
+            {"nom": "Saint-Augustin","correspondances": []},
+            {"nom": "Havre-Caumartin","correspondances": ["3","12","13","14"]},
+            {"nom": "Chaussée d'Antin — La Fayette","correspondances": ["7"]},
             {
             "nom": "Richelieu — Drouot",
             "correspondances": [

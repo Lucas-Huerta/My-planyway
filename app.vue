@@ -1,10 +1,20 @@
 <template>
-  <NuxtLayout>
-    <div>
+  <NuxtLayout :listeMetro="items">
+    <div id="wrapper">
       <NuxtPage />
     </div>
   </NuxtLayout>
 </template>
+
+<script setup>
+
+let items = null;
+let response = await useFetch('./metro.json');
+items = response;
+
+console.log("items", items);
+
+</script>
 
 <style>
 
@@ -28,6 +38,7 @@
 
 body{
   margin: 0;
+  font-family: "Raleway";
 }
 
 ul{
@@ -36,6 +47,12 @@ ul{
 
 a{
   text-decoration: none;
+}
+
+button{
+  border: solid 1px;
+  padding: 10px 5px;
+  border-radius: 8px;
 }
 
 /* Alignement class */
@@ -57,6 +74,10 @@ h1{
 
 h2{
   font-size: 34px;
+}
+
+#wrapper{
+  height: 100vh;
 }
 
 </style>
