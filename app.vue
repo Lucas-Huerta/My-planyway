@@ -1,20 +1,10 @@
 <template>
-  <NuxtLayout :listeMetro="items">
+  <NuxtLayout>
     <div id="wrapper">
       <NuxtPage />
     </div>
   </NuxtLayout>
 </template>
-
-<script setup>
-
-let items = null;
-let response = await useFetch('./metro.json');
-items = response;
-
-console.log("items", items);
-
-</script>
 
 <style>
 
@@ -47,6 +37,7 @@ ul{
 
 a{
   text-decoration: none;
+  color: white;
 }
 
 button{

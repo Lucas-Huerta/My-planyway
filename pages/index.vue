@@ -1,15 +1,6 @@
 <template>
   <div id="wrapper-background">
   </div>
-
-  <!-- <div class="flex-col home-pitch-container">
-    <span class="home-pitch">
-      visit Paris without any problem and in its most beautiful details without any worries
-    </span>
-    <button class="active-button">
-      Discover you next trip
-    </button>
-  </div> -->
 </template>
 
 <script setup>

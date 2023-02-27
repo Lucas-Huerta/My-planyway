@@ -1,5 +1,6 @@
 {
     "ligne 1": {
+        "ligne": "ligne 1", 
         "image": "./img/logo_Metro/ligne1.svg",
         "stations": [
             {"nom": "La Defense Grande Arche", "correspondances": ["RER A", "T2", "U"]},
@@ -30,6 +31,7 @@
         ]
     },
     "ligne 2": {
+        "ligne": "ligne 2", 
         "image": "./img/logo_Metro/ligne2.svg",
         "stations": [
             {"nom": "Porte Dauphine", "correspondances": ["RER C"]},
@@ -60,6 +62,7 @@
         ]
     },
     "ligne 3": {
+        "ligne": "ligne 3", 
         "image": "./img/logo_Metro/ligne3.svg",
         "stations": [
             {"nom": "Pont de Levallois - Becon", "correspondances": []},
@@ -89,6 +92,7 @@
         ]
     },
     "ligne 4": {
+        "ligne": "ligne 4", 
         "image": "./img/logo_Metro/ligne4.svg",
         "stations": [
             {"nom": "Porte de Clignancourt", "correspondances": ["ligne 12"]},
@@ -120,6 +124,7 @@
         ]
     },
     "ligne 5": {
+        "ligne": "ligne 5", 
         "image": "./img/logo_Metro/ligne5.svg",
         "stations": [
             {"nom": "Bobigny - Pablo Picasso", "correspondances": ["ligne 7"]},
@@ -147,6 +152,7 @@
         ]
     },
     "ligne 6": {
+        "ligne": "ligne 6", 
         "image": "./img/logo_Metro/ligne6.svg",
         "stations": [
             {"nom": "Charles de Gaulle - Étoile", "correspondances": ["ligne 1", "ligne 2", "ligne 9"]},
@@ -172,6 +178,7 @@
     },
     
     "ligne 7": {
+        "ligne": "ligne 7", 
         "image": "./img/logo_Metro/ligne7.svg",
         "stations": [
             {"nom": "La Courneuve - 8 Mai 1945", "correspondances": ["ligne 8"]},
@@ -204,6 +211,7 @@
         ]
     }, 
     "ligne 8": {
+        "ligne": "ligne 8", 
         "image": "./img/logo_Metro/ligne8.svg",
         "stations": [
             {"nom": "Balard", "correspondances": ["Tramway 3a"]},
@@ -251,6 +259,7 @@
         ]
     },
     "ligne 9": {
+        "ligne": "ligne 9", 
         "image": "./img/logo_Metro/ligne9.svg",
         "stations": [
             {"nom": "Pont de Sèvres","correspondances": ["T2"]},
