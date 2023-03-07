@@ -1,6 +1,6 @@
 <template>
     <header>
-        <nav class="main-nav">
+        <nav class="main-nav" ref="mainNav">
             <ul class="list-nav flex-row">
                 <NuxtLink to="/" class="nav-title">
                     My Planyway
@@ -23,17 +23,45 @@
     <slot />
 </template>
 
+<script setup>
+
+let route = useRoute(); 
+let mainNav = ref(null);
+
+onUpdated(() =>{
+  if (route.fullPath == "/") {
+    mainNav.value.classList.remove('backgound-nav');
+  }
+  else{
+    mainNav.value.classList.remove('backgound-nav');
+  }
+})
+
+</script>
+
 <style>
 
 .main-nav{
+    position: absolute;
+    z-index: 10;
+    width: 100vw;
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: var(--secondary-color);
-    height: 5vh;
+    height: 7vh;
+    background: rgba(255, 255, 255, 0.07);
+    /* border-radius: 16px; */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.8px);
+    -webkit-backdrop-filter: blur(3.8px);
+    /* border: 1px solid rgba(255, 255, 255, 0.74); */
 }
 
-.main-nav::before{
+.backgound-nav{
+    background-color: #170C08;
+}
+
+/* .main-nav::before{
     content: '';
     filter: blur(2rem);
     height: 100%;
@@ -42,7 +70,7 @@
     top: 0;
     width: 100%;
     z-index: -1;
-}
+} */
 
 nav .list-nav{
     color: white;
