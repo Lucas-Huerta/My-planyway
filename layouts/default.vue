@@ -61,17 +61,6 @@ onUpdated(() =>{
     background-color: #170C08;
 }
 
-/* .main-nav::before{
-    content: '';
-    filter: blur(2rem);
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: -1;
-} */
-
 nav .list-nav{
     color: white;
     align-items: center;
